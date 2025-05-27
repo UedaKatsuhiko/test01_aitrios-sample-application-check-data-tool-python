@@ -50,7 +50,7 @@
 	"customizations": {
 		"codespaces": {
 			"repositories": {
-				"SonySemiconductorSolutions/aitrios-sdk-console-access-lib-python": {
+				"UedaKatsuhiko/test_aitrios-sdk-console-access-lib-python": {
 					"permissions": {
 						"contents": "read"
 					}
